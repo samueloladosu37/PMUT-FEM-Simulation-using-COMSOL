@@ -37,13 +37,12 @@ The device is a multilayer circular membrane modeled on a silicon substrate. Lay
 ---
 
 ## 📐 3D Geometry & Mesh
-**3D Model- 4 membranes**
 ![3D Model- 4 membranes](https://github.com/samueloladosu37/PMUT-FEM-Simulation-using-COMSOL/blob/main/3D%20Model%201.png)
-**FEM Mesh Model**
+
 ![FEM Mesh Model](https://github.com/samueloladosu37/PMUT-FEM-Simulation-using-COMSOL/blob/main/3D%20Mesh%20Model.png)
-**Close View of the back etching of a single membrane**
+
 ![Close View of the back etching of a single membrane](https://github.com/samueloladosu37/PMUT-FEM-Simulation-using-COMSOL/blob/main/Back%20View.png)
-**Top View of a single membrane**
+
 ![Top View of a single membrane](https://github.com/samueloladosu37/PMUT-FEM-Simulation-using-COMSOL/blob/main/Top%20View.png)
 <sub>Fig. 2: COMSOL 3D model and FEM mesh </sub>
 
