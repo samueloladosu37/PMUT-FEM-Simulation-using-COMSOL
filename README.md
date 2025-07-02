@@ -10,6 +10,15 @@ The project includes Multiple Physics: Solid Mechanics, Electrostatic and Piezoe
 - ✅ **Eigenfrequency studies**: to calculate natural oscillating frequencies
 - ✅ **Parametric sweeps**: to evaluate how the PMUT membrane radius affects resonance frequency 
 
+## 🎯 Objective
+
+- Characterize PMUT behavior under excitation
+- Achieve a working frequency near **6 MHz**
+- Optimize geometry for fabrication
+- Use the simulation as a validation tool for experimental design and fabrication
+
+---
+
 ## 🔩 PMUT Structure Overview
 
 The device is a multilayer circular membrane modeled on a silicon substrate. Layers include:
@@ -101,13 +110,3 @@ Resonance frequencies obtained from eigenfrequency studies:
 
 
 ---
-
-## 🎯 Objective
-
-- Characterize PMUT behavior under excitation
-- Achieve a working frequency near **6 MHz**
-- Optimize geometry for fabrication
-- Use the simulation as a validation tool for experimental design
-
----
-
