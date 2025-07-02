@@ -5,8 +5,7 @@ This repository contains a finite element simulation of a Piezoelectric Micromac
 ---
 
 ## 📘 About the Simulation
-
-> _"This software analyzes physics-based numerical problems by dividing the geometric domain into finite elements (meshing) and solving the associated partial differential equations."_
+This software analyzes physics-based numerical problems by dividing the geometric domain into finite elements (meshing) and solving the associated partial differential equations.
 
 The project includes Multiple Physics: Solid Mechanics, Electrostatic and Piezoelectric effect
 - ✅ **Stationary simulations**: for static deformation and stress
@@ -27,13 +26,6 @@ The device is a multilayer circular membrane modeled on a silicon substrate. Lay
 | AlN Piezo Layer       | 1.1 µm                       |
 | Mo (Top Electrode)    | 0.25 µm                      |
 
-### Cross-Sectional View
-
-![Cross Section](./path_to_image/cross_section.png)
-<sub>Fig. 1: Cross-section of Mo/AlN/Mo multilayers on Si wafer</sub>
-
----
-
 ## ⚙️ FEM Model Setup
 
 - Bottom walls of wafer: **Fixed**
@@ -50,8 +42,10 @@ The device is a multilayer circular membrane modeled on a silicon substrate. Lay
 
 ## 📐 3D Geometry & Mesh
 
-![3D Model](./path_to_image/3d_model.png)
-<sub>Fig. 2: COMSOL 3D model (left) and FEM mesh (right)</sub>
+![3D Model- 4 membranes](https://github.com/samueloladosu37/PMUT-FEM-Simulation-using-COMSOL/blob/main/3D%20Model%201.png)
+![FEM Mesh Model](https://github.com/samueloladosu37/PMUT-FEM-Simulation-using-COMSOL/blob/main/3D%20Mesh%20Model.png)
+![Close View of the back etching of a single membrane](https://github.com/samueloladosu37/PMUT-FEM-Simulation-using-COMSOL/blob/main/Close%20View.pdf)
+<sub>Fig. 2: COMSOL 3D model and FEM mesh </sub>
 
 ---
 
@@ -97,11 +91,15 @@ Resonance frequencies obtained from eigenfrequency studies:
 | Radius (µm) | Resonance Frequency (MHz) |
 |-------------|----------------------------|
 | 75 µm       | ~9 MHz                     |
-| 100 µm      | ~7 MHz                     |
-| 125 µm      | ~6 MHz                     |
+| 100 µm      | ~7.9 MHz                     |
+| 125 µm      | ~6.3 MHz                     |
 
-![Modes](./path_to_image/mode_shapes.png)
+![Mode 75 µm](https://github.com/samueloladosu37/PMUT-FEM-Simulation-using-COMSOL/blob/main/PMUT%2075%20%C2%B5m.png)
+![Modes 100 µm](https://github.com/samueloladosu37/PMUT-FEM-Simulation-using-COMSOL/blob/main/PMUT%20100%20%C2%B5m.png)
+![Modes 125 µm](https://github.com/samueloladosu37/PMUT-FEM-Simulation-using-COMSOL/blob/main/PMUT%20125%20%C2%B5m.png)
+![Graph](https://github.com/samueloladosu37/PMUT-FEM-Simulation-using-COMSOL/blob/main/Graph.png)
 <sub>Fig. 3: Simulated vibration modes at different radii</sub>
+
 
 ---
 
