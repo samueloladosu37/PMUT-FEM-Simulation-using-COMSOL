@@ -2,8 +2,6 @@
 
 This repository contains a finite element simulation of a Piezoelectric Micromachined Ultrasonic Transducer (PMUT), carried out using COMSOL Multiphysics. The goal is to analyze the static and dynamic mechanical behavior of the device, estimate resonance frequencies, and validate design parameters for a target working frequency of **6 MHz**.
 
----
-
 ## 📘 About the Simulation
 This software analyzes physics-based numerical problems by dividing the geometric domain into finite elements (meshing) and solving the associated partial differential equations.
 
@@ -11,8 +9,6 @@ The project includes Multiple Physics: Solid Mechanics, Electrostatic and Piezoe
 - ✅ **Stationary simulations**: for static deformation and stress
 - ✅ **Eigenfrequency studies**: to calculate natural oscillating frequencies
 - ✅ **Parametric sweeps**: to evaluate how the PMUT membrane radius affects resonance frequency 
-
----
 
 ## 🔩 PMUT Structure Overview
 
@@ -41,10 +37,14 @@ The device is a multilayer circular membrane modeled on a silicon substrate. Lay
 ---
 
 ## 📐 3D Geometry & Mesh
-
+**3D Model- 4 membranes**
 ![3D Model- 4 membranes](https://github.com/samueloladosu37/PMUT-FEM-Simulation-using-COMSOL/blob/main/3D%20Model%201.png)
+**FEM Mesh Model**
 ![FEM Mesh Model](https://github.com/samueloladosu37/PMUT-FEM-Simulation-using-COMSOL/blob/main/3D%20Mesh%20Model.png)
-![Close View of the back etching of a single membrane](https://github.com/samueloladosu37/PMUT-FEM-Simulation-using-COMSOL/blob/main/Close%20View.pdf)
+**Close View of the back etching of a single membrane**
+![Close View of the back etching of a single membrane](https://github.com/samueloladosu37/PMUT-FEM-Simulation-using-COMSOL/blob/main/Back%20View.png)
+**Top View of a single membrane**
+![Top View of a single membrane](https://github.com/samueloladosu37/PMUT-FEM-Simulation-using-COMSOL/blob/main/Top%20View.png)
 <sub>Fig. 2: COMSOL 3D model and FEM mesh </sub>
 
 ---
