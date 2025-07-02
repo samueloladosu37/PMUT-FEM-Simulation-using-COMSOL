@@ -108,5 +108,13 @@ Resonance frequencies obtained from eigenfrequency studies:
 ![Graph](https://github.com/samueloladosu37/PMUT-FEM-Simulation-using-COMSOL/blob/main/Graph.png)
 <sub>Fig. 3: Simulated vibration modes at different radii</sub>
 
+---
+
+## 📫 Contact
+
+Feel free to reach out or collaborate:
+
+- LinkedIn: [Samuel Oladosu](https://www.linkedin.com/in/samueloladosu/)
+- Email: [samueloladosu37@gmail.com](mailto:samueloladosu37@gmail.com)
 
 ---
